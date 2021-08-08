@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinhhust2806
-- 👀 I’m interested in image processing
+- 👀 I’m interested in computer vision
 - 🌱 I’m currently learning AI , machine learning and deep learning
 - 💞️ I’m looking to collaborate on advanced image processing
 - 📫 You could reach me at : vinhsocolaaa@gmail.com or https://www.facebook.com/socola.vinh.35/

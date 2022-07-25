@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinhhust2806
-- 👀 I’m interested in computer vision
+- 👀 I’m interested in computer vision projects and researches relating bio-medical imaging
 - 🌱 I’m currently learning AI , machine learning and deep learning
 - 💞️ I’m looking to collaborate on advanced computer vision
 - 📫 You could reach me at : vinhbn28@gmail.com or https://www.facebook.com/socola.vinh.35/
